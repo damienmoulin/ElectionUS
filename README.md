@@ -1,2 +1,9 @@
-# ElectionUS
-"Et si j'étais président"
+ElectionUs
+==========
+
+Hetic project on US election
+
+
+## Installation
+
+composer install
